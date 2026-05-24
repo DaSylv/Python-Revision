@@ -1,3 +1,10 @@
-print("What is your name?")
-name = input()
-print(f"It is nice to meet you, {name}")
+# print("What is your name?")
+# name = input()
+# print(f"It is nice to meet you, {name}")
+
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print("Enter a character for the eye")
+eye = input()
